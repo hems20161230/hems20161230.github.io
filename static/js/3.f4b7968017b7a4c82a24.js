@@ -1,0 +1,2 @@
+webpackJsonp([3],{rVTe:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={created:function(){this.$alert("欢迎来到我的网站","欢迎",{confirmButtonText:"确定",callback:function(e){console.log(e)}})},methods:{}},i=function(){var e=this.$createElement;return(this._self._c||e)("div")};i._withStripped=!0;var l={render:i,staticRenderFns:[]},o=l;var s=n("VU/8")(r,o,!1,null,null,null);s.options.__file="src\\views\\bashboard\\index.vue";t.default=s.exports}});
+//# sourceMappingURL=3.f4b7968017b7a4c82a24.js.map
